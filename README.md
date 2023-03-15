@@ -1,1 +1,1 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjarnerossen&layout=compact)](https://github.com/bjarnerossen/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bjarnerossen&layout=compact&langs_count=4&hide=html,css&card_width=700&hide_title=true)](https://github.com/bjarnerossen/github-readme-stats)
